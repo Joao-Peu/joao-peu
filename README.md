@@ -1,8 +1,8 @@
-### Olá!!! Eu sou o João Pedro 👋
+### Olá! Me chamo João Pedro.
 
-- 🌱 Estudando ferramentas Front-end
-- 📫 Contate-me no email: joaoxpedron@gmail.com
-- 😄 Pronouns: ele/dele
+- 💼 Atualmente trabalho com C# / .NET / ASP.NET / SQL
+- ✍ Foco em Cloud Computing
+- 📧 Contato: joaoxpedron@gmail.com
 
 <div align="center">
   <a href="https://github.com/Joao-Peu">
