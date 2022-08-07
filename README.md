@@ -6,9 +6,7 @@
 
 <div align="center">
     <a href="https://github.com/Joao-Peu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Peui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Peu&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Peu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <div style="display: inline_block"><br>
   <a href="https://github.com/Joao-Peu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Peu&layout=compact&langs_count=7&theme=dark"/>
