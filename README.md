@@ -1,6 +1,5 @@
 ### Olá! Me chamo João Pedro.
 
-- 💼 Atualmente trabalho com C# / .NET / ASP.NET / SQL
 - ✍ Foco em Cloud Computing
 - 📧 Contato: joaoxpedron@gmail.com
 
