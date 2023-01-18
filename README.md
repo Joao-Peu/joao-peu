@@ -1,6 +1,6 @@
 ### Olá! Me chamo João Pedro.
 
-- ✍ Foco em Cloud Computing
+- ✍ Foco em C# e .net
 - 📧 Contato: joaoxpedron@gmail.com
 
 <div align="center">
