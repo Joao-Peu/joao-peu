@@ -18,7 +18,7 @@
   <img align="center" alt="Joao-CSS" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg>
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
           
-          
+          .
 </div>
 
 ##
